@@ -1,4 +1,4 @@
-# Voize Demo – Speaker Verification
+# POC – Speaker Verification
 
 Voice verification using SpeechBrain ECAPA-TDNN. Upload two audio files and get cosine similarity + same-speaker decision.
 
