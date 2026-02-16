@@ -1,0 +1,10 @@
+---
+description: Simple, correct, explainable code; avoid overengineering
+alwaysApply: true
+---
+
+# Coding Standards
+
+- Prefer simple, correct, explainable code. Avoid overengineering.
+- Add type hints and short docstrings.
+- Do not add unnecessary dependencies.
